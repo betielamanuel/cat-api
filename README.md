@@ -8,7 +8,6 @@ This is a simple website that allows users to browse and view cat images from th
 
 2. **Select a Size**: Use the "Size" dropdown to filter images based on their resolution. You can choose from three size options: small, medium, or large.
 
-3. **View Cat Images**: After selecting the breed and size, the website will display up to 100 cat images that match the selected criteria.
 
 ## Technologies Used
 
